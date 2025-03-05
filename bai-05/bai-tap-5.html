@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .content {
+            background: #0065BB;
+            padding: 60px 30px; 
+            border-radius: 8px;
+            position: relative;
+            overflow: hidden;
+        }
+        .content::before {
+            content: "";
+            display: block;
+            width: 120px;
+            height: 120px;
+            background: #0000003b;
+            border-radius: 50%;
+            position: absolute;
+            left: 20px;
+            top: 20px;
+        }
+        .content::after {
+            content: "";
+            display: block;
+            width: 240px;
+            height: 240px;
+            background: #0000003b;
+            border-radius: 50%;
+            position: absolute;
+            right: -50px;
+            bottom: -50px;
+        }
+        .content .inner-content {
+            color: white;
+            position: relative;
+            z-index: 1;
+        }
+        .content .inner-content::first-letter {
+            font-size: 40px;
+        }
+        .content .inner-content::first-line {
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <div class="inner-content">
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam, esse! Quidem fugit, aperiam quae reprehenderit dicta odit ipsa tempora tenetur illum optio nihil perspiciatis vero. Quisquam, quibusdam molestias! Iure, consequuntur.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum incidunt itaque quo commodi quidem quod eum fugiat iusto, non veniam libero quia possimus odio, suscipit at fuga. Minus, maiores dolorem.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus animi sapiente mollitia molestias obcaecati pariatur blanditiis dolores cumque ipsum, accusamus unde enim, vitae temporibus itaque maiores inventore molestiae dolorum. Maxime?
+        </div>
+    </div>
+</body>
+</html>

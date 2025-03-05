@@ -1,0 +1,156 @@
+.section-one .inner-main {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.section-one .inner-head {
+    background: -webkit-linear-gradient(-30deg, #f57f20, #d62b08 100%);
+    text-align: center;
+    padding: 10px;
+}
+
+.section-one .inner-head .inner-title {
+    color: #fff;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.section-one .inner-body {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 0 0 10px 10px;
+}
+
+.section-one .card {
+    border: 0;
+}
+
+.section-one .card-header {
+    background: #fff;
+    border: 0;
+    padding: 0;
+}
+
+.section-one .btn {
+    text-decoration: none;
+    border: 1px solid transparent;
+    color: orange;
+}
+
+.section-one .btn:focus {
+    box-shadow: none;
+}
+
+.section-one .card {
+    margin-bottom: 5px;
+}
+
+.section-one .btn.collapsed {
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+    color: #000;
+}
+
+/* section-two */
+.section-two {
+    margin-top: 60px;
+}
+
+.section-two .inner-main {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.section-two .inner-head {
+    background: -webkit-linear-gradient(-30deg, #f57f20, #d62b08 100%);
+    text-align: center;
+    padding: 10px;
+}
+
+.section-two .inner-head .inner-title {
+    color: #fff;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.section-two .inner-head .inner-desc {
+    color: #fff;
+}
+
+.section-two .inner-body {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 0 0 10px 10px;
+}
+
+.button {
+    background: -webkit-linear-gradient(-30deg, #f57f20, #d62b08 100%);
+    border: 0;
+    padding: 10px 30px;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 45px;
+    text-align: center; 
+}
+
+/* Modal */
+
+.modal-form .modal-header {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.modal-form .modal-header .close {
+    position: absolute;
+    top: -2px;
+    right: -2px;
+    background: #000;
+    opacity: 1;
+    color: #fff;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-form .modal-header .inner-image {
+    height: 40px;
+    width: auto;
+    margin-bottom: 10px;
+}
+
+.modal-form .modal-header .inner-title {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.modal-form .modal-header .inner-desc {
+    margin-bottom: 0;
+}
+
+.modal-form .button {
+    width: 100%;
+}
+
+.modal-form .modal-content {
+    border-radius: 12px;
+}
+
+.col-xl-20 {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+@media (min-width: 1200px) {
+    .col-xl-20 {
+        -ms-flex: 0 0 20%;
+        flex: 0 0 20%;
+        max-width: 20%;
+    }
+}
