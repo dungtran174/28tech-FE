@@ -1,0 +1,183 @@
+{
+  "book-room": [
+    {
+      "id": "b339",
+      "time": "14 giờ",
+      "fullname": "Dũng Trần Đức",
+      "phone": "0987654321",
+      "services": [
+        "Thuê ô tô 4 chỗ"
+      ],
+      "gift": "Áo cộc",
+      "date": [
+        "12/03/2025",
+        "03/04/2025"
+      ]
+    },
+    {
+      "id": "319b",
+      "time": "14 giờ",
+      "fullname": "Dũng Trần Đức",
+      "phone": "0987654321",
+      "services": [
+        "Thuê ô tô 4 chỗ"
+      ],
+      "gift": "Áo cộc",
+      "date": [
+        "12/03/2025",
+        "03/04/2025"
+      ]
+    },
+    {
+      "id": "bf18",
+      "time": "14 giờ",
+      "fullname": "Dũng Trần Đức",
+      "phone": "0987654321",
+      "services": [
+        "Thuê ô tô 4 chỗ"
+      ],
+      "gift": "Áo cộc",
+      "date": [
+        "12/03/2025",
+        "03/04/2025"
+      ]
+    },
+    {
+      "id": "f92f",
+      "time": "14 giờ",
+      "fullname": "Dũng Trần Đức",
+      "phone": "0987654321",
+      "services": [
+        "Thuê ô tô 4 chỗ"
+      ],
+      "gift": "Áo cộc",
+      "date": [
+        "12/03/2025",
+        "03/04/2025"
+      ]
+    },
+    {
+      "id": "5d16",
+      "time": "14 giờ",
+      "fullname": "Dũng Trần Đức",
+      "phone": "0987654321",
+      "services": [
+        "Thuê ô tô 4 chỗ"
+      ],
+      "gift": "Áo cộc",
+      "date": [
+        "12/03/2025",
+        "03/04/2025"
+      ]
+    },
+    {
+      "id": "6a88",
+      "time": "14 giờ",
+      "fullname": "Dũng Trần Đức",
+      "phone": "0987654321",
+      "services": [
+        "Thuê ô tô 4 chỗ"
+      ],
+      "gift": "Áo cộc",
+      "date": [
+        "12/03/2025",
+        "03/04/2025"
+      ]
+    },
+    {
+      "id": "76ff",
+      "time": "14 giờ",
+      "fullname": "Dũng Trần Đức",
+      "phone": "0987654321",
+      "services": [
+        "Thuê ô tô 4 chỗ"
+      ],
+      "gift": "Áo cộc",
+      "date": [
+        "12/03/2025",
+        "03/04/2025"
+      ]
+    },
+    {
+      "id": "7040",
+      "time": "14 giờ",
+      "fullname": "Dũng Trần Đức",
+      "phone": "0987654321",
+      "services": [
+        "Thuê ô tô 4 chỗ"
+      ],
+      "gift": "Áo cộc",
+      "date": [
+        "12/03/2025",
+        "03/04/2025"
+      ]
+    },
+    {
+      "id": "7df6",
+      "time": "14 giờ",
+      "fullname": "Dũng Trần Đức",
+      "phone": "0987654321",
+      "services": [
+        "Thuê ô tô 4 chỗ"
+      ],
+      "gift": "Áo cộc",
+      "date": [
+        "12/03/2025",
+        "03/04/2025"
+      ]
+    },
+    {
+      "id": "ab78",
+      "time": "14 giờ",
+      "fullname": "Dũng Trần Đức",
+      "phone": "0987654321",
+      "services": [
+        "Thuê ô tô 4 chỗ"
+      ],
+      "gift": "Áo cộc",
+      "date": [
+        "12/03/2025",
+        "03/04/2025"
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "id": "f345",
+      "roomName": "sv",
+      "quantityBed": 2,
+      "quantityPeople": 4,
+      "description": "uuuuuuuuu",
+      "utils": [
+        "Nóng lạnh"
+      ],
+      "status": true,
+      "typeRoom": true
+    },
+    {
+      "id": "239e",
+      "roomName": "sca",
+      "quantityBed": 4,
+      "quantityPeople": 3,
+      "description": "ca",
+      "utils": [
+        "wifi",
+        "Nóng lạnh"
+      ],
+      "status": true,
+      "typeRoom": true
+    },
+    {
+      "id": "6a6a",
+      "roomName": "sv",
+      "quantityBed": 2,
+      "quantityPeople": 3,
+      "description": "kjbn",
+      "utils": [
+        "wifi",
+        "Nóng lạnh",
+        "Điều hòa"
+      ]
+    }
+  ]
+}
